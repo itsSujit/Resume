@@ -1,0 +1,32 @@
+https://github.com/SonarSource/sonar-github.git
+
+http://stackoverflow.com/questions/32047585/jenkins-sonar-github-integration
+
+http://techtalkbook.com/git/sonarqube-git-analysis/
+
+
+Appnexus Repository on localhost
+http://www.vineetmanohar.com/2010/06/getting-started-with-nexus-maven-repo-manager/
+
+
+
+Check if ur mail is hacked : haveibeenpwned.com
+
+
+URL Rewriting :http://tuckey.org/urlrewrite/
+
+
+Spring : 
+
+https://www.youtube.com/watch?v=ZxLaEovze3M&list=PLC97BDEFDCDD169D7&index=5
+
+https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLGibysfsUS7NAbefiaj1V4LbX0glTftDI
+
+*************************************OAuth****************************************************************
+http://javapapers.com/java/java-facebook-login-with-oauth-authentication/
+
+How OAuth works 
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+
+Auth req,responce
+http://tutorials.jenkov.com/oauth2/authorization-code-request-response.html#authorization-response
