@@ -30,3 +30,6 @@ https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 
 Auth req,responce
 http://tutorials.jenkov.com/oauth2/authorization-code-request-response.html#authorization-response
+
+**********************************REST vs SOAP*********************************************
+http://www.java2blog.com/2016/06/difference-between-soap-and-rest-web-services.html
